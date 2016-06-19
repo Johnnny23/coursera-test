@@ -21,6 +21,7 @@ p {
 
 #first {
   background-color: #AA3333;
+  color: white;
 }
 
 #second {
@@ -29,6 +30,7 @@ p {
 
 #third {
   background-color: #3377BB;
+  color: white;
 }
 
 .section-title {
@@ -49,7 +51,7 @@ p {
   margin-bottom: 30px; 
   padding: 10px;    
   padding-top: 35px;
-  border: 1px solid green;
+  border: 1px solid black;
   background-color: grey;
 }
 
